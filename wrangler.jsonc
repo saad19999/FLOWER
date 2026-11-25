@@ -1,5 +1,7 @@
 {
-  "name": "sasa",
+  "name": "flower",
   "compatibility_date": "2026-11-25",
-  "pages_build_output_dir": "."
+  "assets": {
+    "directory": "."
+  }
 }
